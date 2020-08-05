@@ -90,6 +90,8 @@ Of course you don't want to rely on ugly fonts like Arial or Times New Roman. Th
 - [Flaticon](https://www.flaticon.com/) – Smaller icon sets, but more variety and more playful
 - [Streamline](https://streamlineicons.com/) – Over 30k icons in three weights
 - [Nucleo](https://nucleoapp.com/premium-icons) – $99 set of ~30k icons in 3 styles (even colored)
+- [System UIcons](https://systemuicons.com/)
+- [Bootstrap Icons](https://github.com/twbs/icons) – official icon library for Bootstrap
 
 Doing your [own](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)?
 
@@ -105,6 +107,9 @@ Color is an important part of every design, so you should take good care of it!
 - [Coolers](https://coolors.co/) – Slick color palette generator
 - [Picular](https://picular.co/) – Google but for colors
 
+### Other 
+- [Video.js](https://videojs.com/) – HTML5 web video player
+
 
 ## Accessibility
 
@@ -116,6 +121,7 @@ Color is an important part of every design, so you should take good care of it!
 
 - [Doodle CSS](https://css-doodle.com) – A web component for drawing patterns with CSS
 - [pattern.css](https://github.com/bansal-io/pattern.css) – CSS only library to fill your empty background with beautiful patterns.
+- [ZeroDivs](https://zerodivs.com/) – Make shapes purely in CSS
 
 
 ## Infos
@@ -125,11 +131,14 @@ Color is an important part of every design, so you should take good care of it!
 
 
 ## Learning
+
+- [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
+- [Laws of UX](https://lawsofux.com/)
+
 ### How Tos
 - [How to design a proper landing page](https://www.julian.com/guide/growth/landing-pages)
 
 ### Layout
-
 - [No nonsense layouts](https://testdriven.io/blog/css-grid/) – good place to start
 - [Every Layout](https://every-layout.dev/) explained
 - [CSS grid cheat sheet](https://alialaa.github.io/css-grid-cheat-sheet/) – A visual guide
